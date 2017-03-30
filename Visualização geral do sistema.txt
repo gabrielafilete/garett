@@ -1,0 +1,6 @@
+Sistema de controle financeiro focado em agilidade de criação de transações.
+• tela inicial onde trerá uma visão geral do sistema, mostrando resumido em gráficos comparando receitas e despesas realizadas.
+• tela de inclusão das transações que serão movimentos de receita, despesa e transação entre contas.
+• tela com configurações do sistema
+• tela de login
+• Relatórios relacionando as receitas, despesas e transações; todas os movimentos individuais;
